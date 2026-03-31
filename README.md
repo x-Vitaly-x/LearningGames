@@ -2,6 +2,10 @@
 
 This is a fun project I did to test the limits of Claude and how agents can be used to build complex projects will little knowledge of code and it's algorithms. For obvious reasons I can not put it on Github.
 
+For this case I want to build simple learning games, starting with a game I use to learn Japanese alphabet. I want to expand this project in the future to add more learning games for other topics, and the initial case study of learning Hiragana and Katakana is a good example. 
+
+The mechanics are simple, for simple game mode you guess characters row by row. For advanced game mode, recommended after you beat the basic mode, you test your skills on the entire alphabet from the very beginning. Character disappears once correctly guessed five times, the objective of the game is to remove every character in the alphabet. Incorrect guesses cause lives to disappear.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
