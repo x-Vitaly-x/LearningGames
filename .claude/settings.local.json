@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(node:*)",
+      "Bash(source:*)",
+      "Bash(brew list:*)",
+      "WebFetch(domain:jobs.ashbyhq.com)",
+      "Bash(npm run:*)",
+      "Bash(git stash:*)",
+      "Skill(cover-letter)",
+      "WebFetch(domain:entyre.com)",
+      "WebFetch(domain:www.pflegewegweiser.de)",
+      "WebSearch",
+      "WebFetch(domain:www.startbase.com)",
+      "WebFetch(domain:thermondo.jobs.personio.de)",
+      "WebFetch(domain:www.thermondo.de)",
+      "WebFetch(domain:moqo.de)",
+      "WebFetch(domain:job-boards.greenhouse.io)",
+      "Bash(git update-index:*)"
+    ]
+  }
+}
